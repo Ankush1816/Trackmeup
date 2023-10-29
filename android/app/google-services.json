@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "751300364284",
+    "project_id": "trackmeup-516a2",
+    "storage_bucket": "trackmeup-516a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751300364284:android:fe63026cffef9755ecd479",
+        "android_client_info": {
+          "package_name": "com.trackmeup.trackmeup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751300364284-b3kshqbm8g1i2imtd2as6prldkc46ff3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trackmeup.trackmeup",
+            "certificate_hash": "1e9170f4a1a9db510d69fd9119ddaf03c7cc9d9c"
+          }
+        },
+        {
+          "client_id": "751300364284-rvte7gtu7ai1poo905grdcshn58dvc4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNiuqPPVp2oeVBVv9CbauO1Se08aALQfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751300364284-rvte7gtu7ai1poo905grdcshn58dvc4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

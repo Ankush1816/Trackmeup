@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>751300364284-ounj6plainqel7ib0q8h9gmlslntv0bf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.751300364284-ounj6plainqel7ib0q8h9gmlslntv0bf</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>751300364284-b3kshqbm8g1i2imtd2as6prldkc46ff3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCIQN1UknKpxI-o6_n5xpDqGaBeHnGTEBM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>751300364284</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.trackmeup.trackmeup</string>
+	<key>PROJECT_ID</key>
+	<string>trackmeup-516a2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>trackmeup-516a2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:751300364284:ios:90fea77cb03e880becd479</string>
+</dict>
+</plist>
